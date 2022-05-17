@@ -104,8 +104,10 @@ application.
 
 This component is part of the A-Frame extras library which we have used already.
   
+  ------------------------------
+  add the aframe-ar.js library and attach the embedded arjs component to the scene element.
   
-  
+  dd the marker and gltf-model entity and its orientation.  
   
   
   
