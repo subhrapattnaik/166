@@ -109,5 +109,5 @@ This component is part of the A-Frame extras library which we have used already.
   
   dd the marker and gltf-model entity and its orientation.  
   
-  
+  with no default position and rotation orientation the marker has to be horizontal.
   
