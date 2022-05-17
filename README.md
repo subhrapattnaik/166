@@ -4,7 +4,9 @@
 download and run ngrok
 
 
+https://ngrok.com/download
 
+add auth token (sign up with google id) and proceed
 
 ngrok http 5500
 
@@ -112,3 +114,7 @@ This component is part of the A-Frame extras library which we have used already.
   with no default position and rotation orientation the marker has to be horizontal.
   position 0 0 0
   rotation 0 0 0 
+---------------------
+  take hiro image  to your mobile ,show that to your local host or ngrok computer output camera screen
+  
+  you will be able to see the output
