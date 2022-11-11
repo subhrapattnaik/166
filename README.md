@@ -1,6 +1,5 @@
-# PRO-C166
 
-
+-----------------------
 download and run ngrok
 
 
@@ -118,3 +117,24 @@ This component is part of the A-Frame extras library which we have used already.
   take hiro image  to your mobile ,show that to your local host or ngrok computer output camera screen
   
   you will be able to see the output
+  --------------
+  # PRO-C166
+ar.js:-- https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js
+
+to set up:-- https://dashboard.ngrok.com/get-started/setup
+
+sign up:-- ngrok config add-authtoken 29T4pfcfpV1NCo8s2qlH189b7Rs_K53XcBiiSvuRMRxdD2Wk
+
+to run a HTTP port:-- ngrok http 80
+
+Example for global url:-- https://54e0-223-226-155-120.in.ngrok.io
+
+download and run ngrok
+
+https://ngrok.com/download
+
+add auth token (sign up with google id) and proceed
+
+ngrok http 5500
+
+open the global url
